@@ -1,2 +1,2 @@
 function happyHolidays
-  console.log("Happy Holidays!")
+  return "Happy Holidays!"
